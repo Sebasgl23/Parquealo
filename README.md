@@ -1,0 +1,2 @@
+# Parquealo
+Es una aplicacion web, tanto para usuarios de parqueaderos como para administrar parqueaderos, en la cual como usuario puedes ver los parqueaderos que tienes cerca de ti, asi como sus datos tales como, nombre, direccion, precio por hora y tambien su ubicacion en google maps, y como administrador de parqueadero podras llevar el registro de los carros que estan en tu parqueadero y ver los cupos restantes que hay en tu parqueadero.
