@@ -16,7 +16,7 @@
   <!-- Bootstrap-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="icon" type="image/png" href="Images/logo.png" />
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6ur9YJBr2AeV4wVirQ5II59x-LDSVMZ4"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
   <script src="./JS/gmaps.js"></script>
   
   <title>Parquealo | Sistema de parqueadero </title>
